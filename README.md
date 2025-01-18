@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **agrawalnikunj290@gmail.com**
 
-- 📄 Know about my experiences [ Winner of Smart India Hackathon Grand Finale 2024 , Hardware Category , Team-Electrovision , Problem Statement - Design an innovative product for empowering delivery workforce ] (Winner of Smart India Hackathon Grand Finale 2024 , Hardware Category , Team-Electrovision , Problem Statement - Design an innovative product for empowering delivery workforce) [Internship at Semi-Conductor Laboratory and Trainee at CSIR-CEERI](Internship at Semi-Conductor Laboratory and Trainee at CSIR-CEERI) [Trainee at CSIR-CEERI] (Trainee at CSIR-CEERI) 
+- 📄 Know about my experiences [ Winner of Smart India Hackathon Grand Finale 2024 , Hardware Category , Team-Electrovision , Problem Statement - Design an innovative product for empowering delivery workforce ]  [Internship at Semi-Conductor Laboratory and Trainee at CSIR-CEERI]  [Trainee at CSIR-CEERI]  
 
 - ⚡ Fun fact **I am an Engineer**
 
