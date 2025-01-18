@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.9d9ade8587e416130c9027781c2f7047?rik=tIOceb6gYGGjvg&riu=http%3a%2f%2falt-think.only1egg.com%2fwp-content%2fuploads%2f2018%2f02%2fchip-animated-web.gif&ehk=koz04Ta0gG5CL0Pq%2bVlhKzXh9pzZ30qFqN5%2fYk6Ebdw%3d&risl=1&pid=ImgRaw&r=0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikunj-agrawal&label=Profile%20views&color=0e75b6&style=flat" alt="nikunj-agrawal" /> </p>
 
-- 🔭 I’m currently Studying Electronics **RTL 108 Advanced Projects**
+- 🔭 I studied and implement Electronics **RTL 108 Advanced Projects**
 
-- 🌱 I’m currently learning **Digital,Verilog,System Verilog**
+- 🌱 I learned  **Digital,Verilog,System Verilog**
 
 - 📫 How to reach me **agrawalnikunj290@gmail.com**
 
